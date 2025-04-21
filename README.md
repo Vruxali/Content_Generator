@@ -1,3 +1,6 @@
+# content-generator
+<br>
+this is content generator App using NextJs, React, TailwindCss, Gemini, Typescript, clerk
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
